@@ -1,13 +1,13 @@
-Hello, I'm Vishal Chorala 👋
+# Hello, I'm Vishal Chorala 👋
 
-##React Developer
+## React Developer
 
 I'm a passionate React Developer who loves building dynamic and responsive web applications. Welcome to my GitHub profile!
   
 ## 🔧 Skills
 - **Programming Languages:** JavaScript,HTML/CSS, 
-- **Frameworks & Libraries:** React,
-- **Tools:** Git, 
+- **Frameworks & Libraries:** React,Bootstrap
+- **Tools:** Git,Github
 
 ## 🌟 Projects
 - **Portfolio Website :** : https://vishalchorala-portfolio.netlify.app/
