@@ -1,6 +1,6 @@
 # Hello, I'm Vishal Chorala 👋
 
-## React Developer
+## React JS Developer
 
 I'm a passionate React Developer who loves building dynamic and responsive web applications. Welcome to my GitHub profile!
   
