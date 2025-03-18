@@ -7,7 +7,7 @@ I'm a passionate React Developer who loves building dynamic and responsive web a
 ## 🔧 Skills
 - **Programming Languages:** JavaScript, HTML/CSS, 
 - **Frameworks & Libraries:** React, Bootstrap, Next js, Tailwind CSS
-- **Tools:** Git,Github
+- **Tools:** Git, Github
 
 ## 🌟 Projects
 - **Portfolio Website :** : https://vishalchorala-portfolio.netlify.app/
