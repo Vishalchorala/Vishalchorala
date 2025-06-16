@@ -10,7 +10,7 @@ I'm a passionate React Developer who loves building dynamic and responsive web a
 - **Tools:** Git, Github
 
 ## 🌟 Projects
-- **Portfolio Website :** : https://vishalchorala-portfolio.netlify.app/
+- **Portfolio Website :** : https://vishalchorala.dev/
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vishal-chorala-28378a21b/) 🔗
