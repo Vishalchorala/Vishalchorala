@@ -6,7 +6,7 @@ I'm a passionate React Developer who loves building dynamic and responsive web a
   
 ## 🔧 Skills
 - **Programming Languages:** JavaScript, HTML/CSS, 
-- **Frameworks & Libraries:** React, Bootstrap, Next js, Tailwind CSS
+- **Frameworks & Libraries:** React, Bootstrap, Next js, Tailwind CSS, MUI
 - **Tools:** Git, Github
 
 ## 🌟 Projects
