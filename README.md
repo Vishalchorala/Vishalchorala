@@ -14,5 +14,5 @@ I'm a passionate React Developer who loves building dynamic and responsive web a
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/vishal-chorala-28378a21b/) 🔗
-- [Twitter](https://x.com/i/flow/login?redirect_after_login=%2Fvishal_chorala)🐦
+- [Twitter](https://x.com/i/flow/login?redirect_after_login=%2Fvishal_chorala) 🐦
 - [Email](mailto:pintuchorala2004@gmail.com) 📧
